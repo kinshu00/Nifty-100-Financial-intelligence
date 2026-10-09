@@ -1,0 +1,17 @@
+{
+  "phase":"Final Decision Intelligence",
+  "companies":20,
+  "sectors":12,
+  "api_endpoints":16,
+  "dashboard":"dashboard.py",
+  "top_company":"SUNPHARMA",
+  "high_or_very_high_risk":4,
+  "data_quality":{
+    "foreign_key_violations":0,
+    "companies_rows":20,
+    "profit_loss_rows":100,
+    "balance_sheet_rows":100,
+    "cash_flow_rows":100,
+    "stock_prices_rows":2760
+  }
+}

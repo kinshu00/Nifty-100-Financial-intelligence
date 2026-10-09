@@ -1,0 +1,10 @@
+{
+  "companies":20,
+  "sectors":12,
+  "clusters":5,
+  "leader_count":3,
+  "strong_count":3,
+  "neutral_count":9,
+  "watch_count":5,
+  "top_company":"SUNPHARMA"
+}

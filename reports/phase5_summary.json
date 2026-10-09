@@ -1,0 +1,11 @@
+{
+  "phase": 5,
+  "dashboard": "dashboard.py",
+  "api": "api.py",
+  "companies": 20,
+  "sectors": 12,
+  "api_endpoints": 7,
+  "high_or_very_high_risk": 4,
+  "top_company": "SUNPHARMA",
+  "top_sector": "Healthcare"
+}

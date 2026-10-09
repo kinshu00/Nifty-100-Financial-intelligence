@@ -1,0 +1,12 @@
+{
+  "phase": 4,
+  "companies": 20,
+  "sectors": 12,
+  "positive_stance": 3,
+  "neutral_stance": 12,
+  "caution_stance": 5,
+  "high_risk_or_above": 4,
+  "average_insight_confidence_pct": 100.0,
+  "top_sector": "Healthcare",
+  "top_company": "SUNPHARMA"
+}

@@ -1,0 +1,13 @@
+sector,companies,avg_score,avg_risk,avg_roe,avg_growth
+Automobile,1,50.62,51.47,17.93,12.7
+Cement,1,66.25,32.19,13.2,8.77
+Construction,1,70.31,47.24,28.45,12.28
+Consumer Durables,2,42.81,52.86,10.03,6.19
+Energy,1,44.38,43.28,8.87,14.38
+FMCG,2,37.34,71.13,13.95,5.49
+Financial Services,5,49.0,45.6,10.29,10.91
+Healthcare,1,81.88,29.4,14.83,10.46
+Industrials,1,51.88,57.65,11.61,14.37
+Information Technology,3,47.92,53.94,12.04,9.79
+Power,1,76.88,27.9,15.06,10.6
+Telecommunication,1,46.25,53.69,11.81,6.74

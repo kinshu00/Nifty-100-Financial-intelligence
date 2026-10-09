@@ -1,0 +1,17 @@
+{
+  "companies":20,
+  "ratio_rows":100,
+  "cashflow_rows":100,
+  "opm_review_rows":0,
+  "distress_alerts":0,
+  "deleveraging_alerts":21,
+  "cashflow_quality_counts":{
+    "Moderate":52,
+    "High":48
+  },
+  "capex_intensity_counts":{
+    "Moderate":68,
+    "Low":22,
+    "High":10
+  }
+}
